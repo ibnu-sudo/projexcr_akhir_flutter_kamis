@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "239331473029",
+    "project_id": "absen-admin-and-siswa",
+    "storage_bucket": "absen-admin-and-siswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239331473029:android:4834c21bef449bcaf89bec",
+        "android_client_info": {
+          "package_name": "com.example.absen_siswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239331473029-r7oadpjvluebqf8j070rt54klr50d68k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMpoUrQSwYszyDwykLLrH5fNkEEAyWH4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239331473029-r7oadpjvluebqf8j070rt54klr50d68k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239331473029-qojikjlht44grndvlqvak1gkf68pvctl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.absenSiswa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
